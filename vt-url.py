@@ -1,3 +1,6 @@
+"""
+Usage:  python vt-url.py <api key> -o <path and name of output file>
+"""
 import requests
 import argparse
 import os
